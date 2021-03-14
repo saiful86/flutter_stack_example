@@ -1,16 +1,14 @@
-# flutter_stack_example
+# Stack Widget Example - Flutter
+ Stack Widget Deep dive
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 📺&ensp; Watch Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##### [YouTube video](https://www.youtube.com/watch?v=B738DDx4uUo&list=UU7fe0TkvATV5FrNiIN8rqdQ&index=1 "Technobd xyz") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/channel/UC7fe0TkvATV5FrNiIN8rqdQ "YouTube Subscribe Technobd xyz")  
+<a href="https://youtu.be/AoQREOYy6dI&feature=player_embedded
+" target="_blank"><img src="https://i9.ytimg.com/vi/AoQREOYy6dI/maxresdefault.jpg?time=1615693200000&sqp=CJCLtoIG&rs=AOn4CLDM3FklspeM7-motsyT4m6s_FbYxA" 
+alt="Stack Widget - Flutter YouTube video" width="480" border="10" /></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
